@@ -1,3 +1,4 @@
-## hello git!
+## Welcome to git!
 
-- I am adding this from `feat` branch
+- this is coming from adrian.
+- I am adding this from `feat` branch.
